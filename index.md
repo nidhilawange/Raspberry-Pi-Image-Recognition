@@ -4,8 +4,8 @@ The intention of this project is to read an image, process its contents, and pro
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Nidhi Lawange | Basis Independent Silicon Valley | Electrical Engineering | Rising Junior
-
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+
 # First Milestone
   As a part of my first milestone, I set up the Raspberry Pi, installed tensorflow (a library of machine learning models),    downloaded a sample machine learning       model, and configured this model to process images being produced from the Raspberry Pi Camera, which I also connected. At this point in my project, the Raspberry     Pi camera can take a static picture and the model can process the image, outputting the top 5 items of highest probability that seems to appear in the image. The       final achievement of this milestone is that the Raspberry Pi camera can now capture a live feed, which the model can process. Thus, any object that the camera is       pointing at in the live feed can be identified as the greatest probability match of the top 5 items. Find out what my next steps are in the video!  
 
