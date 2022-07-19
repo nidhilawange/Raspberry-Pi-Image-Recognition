@@ -1,7 +1,7 @@
 # Password-Protected Image Recognition
 The intention of this project is to read an image, process its contents, and produce a description of the percentage possibility of several different objects being in that image. The image is taken by the Raspberry PiCamera2. I extended this project further than this original intent, but it has even greater applications.
 
-| **Engineer** | **School** | **Area of Interest**   | **Grade** |
+| **Engineer** | **School** |   **Area of Interest**   | **Grade** |
 
 | Nidhi L.| Basis Independent Silicon Valley | Electrical Engineering | Rising Junior
 
@@ -31,9 +31,8 @@ final milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjJp5JbvUPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
-<p align="center">
   
-# |**Bill of Materials**  |
+# Bill of Materials
  |   Adapter             |
  |   Micro SD Card       |
  |   Raspberry Pi Microcontroller Board | 
@@ -43,7 +42,7 @@ final milestone
  |   3 male-female jumper wires   |
 
 
-  #Servo Motor Connection Schematic
+ # Servo Motor Connection Schematic
    </p>
 
 
