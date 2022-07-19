@@ -9,7 +9,7 @@ The intention of this project is to read an image, process its contents, and pro
   <img![Headstone Image]()
     width="300"
     height="300"
-    src="[https://picsum.photos/300/300](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp- Engineering-Logo-White.png)"
+    src="[https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp- Engineering-Logo-White.png]"
 >
 
 
