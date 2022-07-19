@@ -22,15 +22,16 @@ final milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjJp5JbvUPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-            | **Bill of Materials** |
-            |   Adapter             |
-            |   Micro SD Card       |
-            |   Raspberry Pi Microcontroller Board | 
-            |   Raspberry Pi Camera          |  
-            |   AC Adapter Cord              |
-            |   Servo Motor + Shaft          |
-            |   3 male-female jumper wires   |
+<p align="center">
+ | **Bill of Materials** |
+ |   Adapter             |
+ |   Micro SD Card       |
+ |   Raspberry Pi Microcontroller Board | 
+ |   Raspberry Pi Camera          |  
+ |   AC Adapter Cord              |
+ |   Servo Motor + Shaft          |
+ |   3 male-female jumper wires   |
+  </p>
 
 # Servo Motor Connection Schematic
 
