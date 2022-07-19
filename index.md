@@ -7,11 +7,11 @@ The intention of this project is to read an image, process its contents, and pro
 
 <p align="center">
   <img
-    width="300"
-    height="300"
+    width="200"
+    height="200"
     src="[https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp- Engineering-Logo-White.png]"
 >
-    </p>
+ </p>
 
 
 # Final Milestone
@@ -43,7 +43,7 @@ final milestone
  |   3 male-female jumper wires   |
 
 <p align = "center"
-# Servo Motor Connection Schematic
+   Servo Motor Connection Schematic
    </p>
 
 
