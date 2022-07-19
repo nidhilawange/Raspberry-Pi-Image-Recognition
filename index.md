@@ -6,11 +6,12 @@ The intention of this project is to read an image, process its contents, and pro
 | Nidhi L.| Basis Independent Silicon Valley | Electrical Engineering | Rising Junior
 
 <p align="center">
-  <img![Headstone Image]()
+  <img
     width="300"
     height="300"
     src="[https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp- Engineering-Logo-White.png]"
 >
+    </p>
 
 
 # Final Milestone
@@ -32,7 +33,7 @@ final milestone
  
 
 
-**Bill of Materials**
+ |**Bill of Materials**  |
  |   Adapter             |
  |   Micro SD Card       |
  |   Raspberry Pi Microcontroller Board | 
@@ -41,6 +42,8 @@ final milestone
  |   Servo Motor + Shaft          |
  |   3 male-female jumper wires   |
 
+<p align = "center"
 # Servo Motor Connection Schematic
+   </p>
 
 
