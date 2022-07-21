@@ -54,9 +54,6 @@ The intention of this project is to read an image, process its contents, and pro
 <p align = "left" >
 <img width="400" src="ServoMotor_Schematic.webp" alt="Servo Image">
 </p>
-
- 
- ![Servo Logo](ServoMotor_Schematic.webp)
  
 
 
