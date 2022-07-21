@@ -1,9 +1,9 @@
 # Password-Protected Image Recognition
 The intention of this project is to read an image, process its contents, and produce a description of the percentage possibility of several different objects being in that image. The image is taken by the Raspberry PiCamera2. I extended this project further than this original intent, but it has even greater applications.
 
-| **Engineer** | **School**            | **Area of Interest** | **Grade** |
+| **Engineer**| **School**                       | **Area of Interest**   | **Grade**     |
 
-| Nidhi L.| Basis Independent Silicon Valley | Electrical Engineering | Rising Junior
+| Nidhi L.    | Basis Independent Silicon Valley | Electrical Engineering | Rising Junior |
 
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp- Engineering-Logo-RGB.png)
