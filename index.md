@@ -45,7 +45,7 @@ The intention of this project is to read an image, process its contents, and pro
 
 # Servo Motor Connection Schematic
 
- ![Servo Logo](https://github.com/nidhilawange/Raspberry-Pi-Image-Recognition/edit/gh-pages/ServoMotorSchematic.png)
+ ![Servo Logo](ServoMotor_Schematic.webp)
  
 
 
