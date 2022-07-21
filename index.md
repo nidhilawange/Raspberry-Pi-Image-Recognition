@@ -32,8 +32,6 @@ The intention of this project is to read an image, process its contents, and pro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HjJp5JbvUPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
-</p align = "center">
-
 # Bill of Materials
  
  | **Software Configuration** | **Hardware Configuration** |
@@ -43,13 +41,10 @@ The intention of this project is to read an image, process its contents, and pro
  |                            | Servo Motor                | 
  |                            |  Jumper Wires              |
  
- </p>
 
-</p align = "center">
- # Servo Motor Connection Schematic
+# Servo Motor Connection Schematic
 
  ![Servo Logo](https://github.com/nidhilawange/Raspberry-Pi-Image-Recognition/edit/gh-pages/ServoMotor_Schematic.webp)
  
-   </p>
 
 
