@@ -2,8 +2,8 @@
 The intention of this project is to read an image, process its contents, and produce a description of the percentage possibility of several different objects being in that image. The image is taken by the Raspberry PiCamera2. I extended this project further than this original intent, but it has even greater applications.
 
 | **Engineer**          | Nidhi Lawange                    | 
-| **School**            | Basis Independent Silicon Valley |                   
-| **Area of Interest**  | Computer Engineering             |      
+| **School**            | Basis Independent Silicon Valley |
+| **Area of Interest**  | Computer Engineering             | 
 | **Grade**             | Rising Junior                    |
 
 
