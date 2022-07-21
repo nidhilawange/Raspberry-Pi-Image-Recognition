@@ -44,8 +44,10 @@ The intention of this project is to read an image, process its contents, and pro
  |  PiCamera2 0.2.3           | Servo Motor                | 
  |  Tflite-runtime 2.9.1      | Jumper Wires               |
  
+ 
 
 # [Link to my Code](https://github.com/nidhilawange/Object-Detection-Lock)
+
 
 # Servo Motor Connection Schematic
 
