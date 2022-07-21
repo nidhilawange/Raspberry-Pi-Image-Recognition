@@ -3,15 +3,14 @@ The intention of this project is to read an image, process its contents, and pro
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Nidhi L. | Basis Independent Silicon Valley | Computer Science | Incoming Junior
+| Nidhi L. | Basis Independent Silicon Valley | Computer Science | Incoming Junior       
 
-| **Engineer**          | Nidhi Lawange                    |      
-| **School**            | Basis Independent Silicon Valley |                    
-| **Area of Interest**  | Computer Engineering             |            
-| **Grade**             | Rising Junior                    |           
-
+</p align = "center" >
+<img width="200" src="https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg" alt="Headstone Image">
+</p>
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
+ </p>
  
 # Demo Night
 
