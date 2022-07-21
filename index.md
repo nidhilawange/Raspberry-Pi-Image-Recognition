@@ -5,7 +5,7 @@ The intention of this project is to read an image, process its contents, and pro
 |:--:|:--:|:--:|:--:|
 | Nidhi L. | Basis Independent Silicon Valley | Computer Science | Incoming Junior       
 
-</p align = "center" >
+<p align = "center" >
 <img width="400" src="https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg" alt="Headstone Image">
 </p>
 
@@ -38,10 +38,10 @@ The intention of this project is to read an image, process its contents, and pro
  
  | **Software Configuration** | **Hardware Configuration** |
  | -------------------------- | -------------------------- |
- |  Adapter                   | Raspberry Pi Camera        |
- |  AC Adapter Cord           | Raspberry Pi Microcontroller Board |
- |  Micro SD Card             | Servo Motor + Shaft        | 
- |                            |  3 male-female jumper wires|
+ |  Micro SD Card + OS        | Raspberry Pi Camera        |
+ |                            | Raspberry Pi Microcontroller Board |
+ |                            | Servo Motor                | 
+ |                            |  Jumper Wires              |
  
  </p>
 
