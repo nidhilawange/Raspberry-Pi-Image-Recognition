@@ -1,7 +1,7 @@
 # Password-Protected Image Recognition
 The intention of this project is to read an image, process its contents, and produce a description of the percentage possibility of several different objects being in that image. The image is taken by the Raspberry PiCamera2. I extended this project further than this original intent, but it has even greater applications.
 
-| **Engineer**    | **School **                          | **Area of Interest**       | **Grade**        |
+| **Engineer**    | **School**                          | **Area of Interest**       | **Grade**        |
 
 | Nidhi L.    | Basis Independent Silicon Valley | Electrical Engineering | Rising Junior |
 
