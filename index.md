@@ -50,8 +50,9 @@ The intention of this project is to read an image, process its contents, and pro
 
 </p align = "center">
  # Servo Motor Connection Schematic
- ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
- ![](servo image)
+
+ ![Servo Logo](https://github.com/nidhilawange/Raspberry-Pi-Image-Recognition/edit/gh-pages/index.md)/ServoMotor_Schematic.webp)
+ 
    </p>
 
 
