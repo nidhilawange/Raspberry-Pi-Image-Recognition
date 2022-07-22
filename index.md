@@ -15,7 +15,7 @@ The intention of this project is to read an image, process its contents, and pro
 
 # My Finished Project
 <p align = "center" >
-<img width="470" src="ProjectPicture.JPG" alt="Project Picture">
+<img width="480" src="ProjectPicture.JPG" alt="Project Picture">
 </p>
 
  
