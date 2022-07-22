@@ -9,6 +9,15 @@ The intention of this project is to read an image, process its contents, and pro
 <img width="400" src="https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg" alt="Headstone Image">
 </p>
 
+<p align = "center" >
+<img width="200" src="ProfilePhoto.jpg" alt="Profile Image">
+</p>
+
+# My Finished Project
+<p align = "center" >
+<img width="400" src="ProjectPicture.jpg" alt="Project Image">
+</p>
+
  
 # Demo Night
 
