@@ -10,12 +10,12 @@ The intention of this project is to read an image, process its contents, and pro
 </p>
 
 <p align = "center" >
-<img width="250" src="ProfilePhoto.JPG" alt="Profile Photo">
+<img width="280" src="ProfilePhoto.JPG" alt="Profile Photo">
 </p>
 
 # My Finished Project
 <p align = "center" >
-<img width="450" src="ProjectPicture.JPG" alt="Project Picture">
+<img width="470" src="ProjectPicture.JPG" alt="Project Picture">
 </p>
 
  
