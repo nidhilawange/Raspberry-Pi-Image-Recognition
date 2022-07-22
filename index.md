@@ -1,4 +1,4 @@
-# Password-Protected Image Recognition
+# Password-Protected Box with Image Recognition
 The intention of this project is to read an image, process its contents, and produce a description of the percentage possibility of several different objects being in that image. The image is taken by the Raspberry PiCamera2. I extended this project further than this original intent. It has even greater applications though.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
